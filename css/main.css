@@ -145,7 +145,6 @@ a {
 /* Menu */
 nav {
     float: right;
-    width: 500px;
     height: 90px;
     margin: 0 auto;
     padding: 0;
@@ -198,7 +197,6 @@ nav .current_page_item a {
 /* Content */
 #content {
     float: right;
-    width: 660px;
     padding: 0px 0px 0px 0px;
 }
 
@@ -362,37 +360,6 @@ nav .current_page_item a {
     color: #262626;
 }
 
-#footer-content #fbox1 {
-    float: left;
-    width: 300px;
-    margin-right: 50px;
-}
-
-#footer-content #fbox2 {
-    float: left;
-    width: 300px;
-}
-
-#footer-content #fbox3 {
-    float: right;
-    width: 300px;
-}
-
-#column1 {
-    float: left;
-    width: 290px;
-    margin-right: 30px;
-}
-
-#column2 {
-    float: left;
-    width: 280px;
-}
-
-#column3 {
-    float: right;
-    width: 260px;
-}
 
 /* Footer */
 
