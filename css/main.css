@@ -246,6 +246,11 @@ nav .current_page_item a {
         float: left;
         width: calc(100% / 3 - 40px);
         padding-right: 40px;
+        margin-left: 20px;
+    }
+
+    .post {
+        padding-right: 30px;
     }
 }
 
