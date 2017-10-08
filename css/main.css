@@ -44,7 +44,7 @@ h1, h2, h3 {
 }
 
 h1 {
-    font-size: 2em;
+    font-size: 4.2em;
 }
 
 h2 {
@@ -97,7 +97,6 @@ a {
 #logo h1 {
     line-height: 120px;
     letter-spacing: -2px;
-    font-size: 3.8em;
 }
 
 #logo h1 a {
