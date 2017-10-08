@@ -12,7 +12,7 @@
 * This page, [PXtoEM](http://pxtoem.com/) to help with conversion from pixels to em.
 
 ## Deductions
-I reviewed the list of deductions for this project and in the syllabus
+I reviewed the list of deductions for this project and in the syllabus.
 
 ## Comments
-I re-designed the navigation menu to look like the example Richard showed, with the nav bar at the top of the page, but I wasn't sure if we had to make the page look 100 percent like the original HTML file.
+I re-designed the navigation menu to look like the example Richard showed, with the nav bar at the top of the page, but I wasn't sure if we had to make the page look 100 percent like the original HTML file, which had the nav bar floating to the right of the logo.
