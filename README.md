@@ -1,7 +1,7 @@
 # Assignment: Responsive Transformation
 
 ## Links
-1. Github repo:
+1. Github repo: (https://github.com/kescobar10/project_transformation_escobar_kenia)
 2. Link to my web host:
 3. W3C's validator:
 4. HTML5 Outliner:
