@@ -34,14 +34,8 @@ p, ul, ol {
     line-height: 180%;
 }
 
-ul, ol {
-}
-
 a {
     color: #5E5E5E;
-}
-
-a:hover {
 }
 
 #wrapper {
@@ -53,8 +47,8 @@ a:hover {
     margin: 0px auto;
 }
 
-/* Header */
 
+/* Header */
 #header-wrapper {
     overflow: hidden;
 }
@@ -66,8 +60,8 @@ a:hover {
     padding: 0px 0px;
 }
 
-/* Logo */
 
+/* Logo */
 #logo {
     float: left;
     width: 300px;
@@ -110,16 +104,16 @@ a:hover {
     color: #000000;
 }
 
-/* Splash */
 
+/* Splash */
 #splash {
     width: 960px;
     height: 300px;
     margin: 0px auto;
 }
 
-/* Search */
 
+/* Search */
 #search {
     float: right;
     width: 280px;
@@ -157,8 +151,8 @@ a:hover {
     color: #000000;
 }
 
-/* Menu */
 
+/* Menu */
 nav {
     float: right;
     width: 500px;
@@ -203,16 +197,16 @@ nav a:hover, #menu .current_page_item a {
 nav .current_page_item a {
 }
 
-/* Page */
 
+/* Page */
 main {
     width: 1000px;
     margin: 0 auto;
     padding: 30px 0px;
 }
 
-/* Content */
 
+/* Content */
 #content {
     float: right;
     width: 660px;
@@ -253,9 +247,6 @@ main {
     float: right;
 }
 
-.post .meta a {
-}
-
 .post .entry {
     padding: 0px 0px 40px 0px;
     text-align: justify;
@@ -289,8 +280,8 @@ main {
     text-decoration: none;
 }
 
-/* Sidebar */
 
+/* Sidebar */
 #sidebar {
     float: left;
     width: 270px;
@@ -356,29 +347,8 @@ main {
     text-decoration: underline;
 }
 
-/* Calendar */
-
-#calendar {
-}
-
-#calendar_wrap {
-    padding: 20px;
-}
-
-#calendar table {
-    width: 100%;
-}
-
-#calendar tbody td {
-    text-align: center;
-}
-
-#calendar #next {
-    text-align: right;
-}
 
 /* Three Column Footer Content */
-
 #footer-content {
     overflow: hidden;
     width: 1000px;
@@ -404,7 +374,6 @@ main {
     color: #262626;
 }
 
-
 #footer-content #fbox1 {
     float: left;
     width: 300px;
@@ -419,9 +388,6 @@ main {
 #footer-content #fbox3 {
     float: right;
     width: 300px;
-}
-
-#footer-content a {
 }
 
 #column1 {
@@ -505,10 +471,6 @@ main {
     height: 340px;
     background: url(../img/img03.png) no-repeat left bottom;
 }
-
-#banner .content {
-}
-
 
 .list-style1 {
     margin: 0px;
