@@ -131,9 +131,6 @@ nav ul {
     list-style: none;
 }
 
-nav li {
-}
-
 nav a {
     display: block;
     text-decoration: none;
@@ -154,6 +151,19 @@ nav a:hover, #menu .current_page_item a {
 }
 
 nav .current_page_item a {
+}
+
+@media all and (min-width: 600px) {
+    nav li {
+        display: inline-block;
+        width: 49%;
+    }
+}
+
+@media all and (min-width: 850px) {
+    nav li {
+        width: calc(98% / 5);
+    }
 }
 
 
