@@ -3,7 +3,7 @@
 ## Links
 1. Github repo: https://github.com/kescobar10/project_transformation_escobar_kenia
 2. Link to my web host: http://krescobar.com/homework/project_transformation_escobar_kenia/
-3. W3C's validator:
+3. W3C's validator: https://validator.w3.org/nu/?doc=http%3A%2F%2Fkrescobar.com%2Fhomework%2Fproject_transformation_escobar_kenia%2F
 4. HTML5 Outliner: https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fkrescobar.com%2Fhomework%2Fproject_transformation_escobar_kenia%2F
 
 ## Resources
