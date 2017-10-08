@@ -104,9 +104,12 @@ a {
 
 /* Menu */
 nav {
-    height: 90px;
     margin: 0 auto;
     padding: 0;
+}
+
+#menu-wrapper {
+
 }
 
 nav ul {
